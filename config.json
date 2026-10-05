@@ -1,1 +1,12 @@
-
+{
+  "minSupportedVersion": "1.0.0",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.prpc.companion",
+  "banner": {
+    "enabled": true,
+    "id": "b-2026-welfare-fest",
+    "title": "Township Welfare Association Event",
+    "subtitle": "Registration open for Annual Badminton Tournament at PRPC Club.",
+    "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&q=80",
+    "targetUrl": "https://example.prpc.in/events/badminton-2026"
+  }
+}
